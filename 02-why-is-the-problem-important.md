@@ -1,6 +1,6 @@
 The problem is crucial because it explores the following conflicts. 
 
-Top-down vs. peer-coordination- where agile focus on decentralized coordination, top-down leadership focuses more on centralized decision-making. The two management paradigms, at face value, challenge the fundamental values of the other. But little's has been done to combine the two paradigms and generate synergy. 
+Top-down vs. peer-to-peer - where agile focus on decentralized coordination, top-down leadership focuses more on centralized decision-making. The two management paradigms, at face value, challenge the fundamental values of the other. But little's has been done to combine the two paradigms and generate synergy. 
 
 Old and new - big organizations like the productivity increase of agile methodology, but rather than adopting cross-functional teams and peer-based decision-making. Organizations want to retain the existing organizational structure and power hierarchy. as a result, agile practitioners are forced to work in a hybrid environment. But they often struggle to prioritize the values of the product team over that of the larger organizations. 
 
