@@ -21,3 +21,16 @@ Some efforts were made to integrate customers into the agile team; participants 
 
 Participants derived many helpful ways of building social identity: Having the team sit and work closely together. Conduct agile ceremonies, such as retrospective meetings and daily stand-ups. Some teams even perform unnecessary ceremonies, such as deployment during the daytime, to get everyone involved and share a common sense of achievement.
 
+Organizational Culture
+
+Companies like agile because of the increased productivity, but companies would often like to retain the existing functional silos and top-down power structures. The companies must appreciate that the agile transition implies a complete cultural change. Adopting agile without fully embracing its principle undermines the benefits that it promised. 
+
+Participants find there is tension with the idea of standardizing agile practices. A standardized practice undermines the diversity of projects. Instead of standardizing practice, they feel the focus should be on implementing agile principles while tailor-making practices for different projects. For example, some participants tried to adopt the waterfall model with an incremental flavor. Others tried to implement full agile within the team but shielded the team from the organization's management control. 
+
+The transition to agile is a difficult one for the organization as well as individuals. Some describe changing people as the most challenging part. Individual contributors are so used to the old way of working that they need help following the new practices. For leadership, On the other letting go of control and trusting the team.
+
+A common theme with agile leaders is that they often have to balance agile principles and the external environment. However, the leaders often may not be able to fully grasp the concerns of other functions in the company and create a project-based silo. Participants tried to solve the issue by setting up a business council within the team, which consists of representatives from different functions, and syncing up regularly to review priorities and remove silos. 
+
+Agile teams also felt they needed to reduce their velocity to adapt to their customers because agile teams could deliver changes more quickly and more often than their milestone-driven counterparts. 
+
+The final tension comes from contracting. Traditional contracts that define the project with a fixed price and scope are incompatible with agile. Participants feel that contracts should now be defined with a fixed price but a flexible scope rather than defining fixed price and fixed scope. 
